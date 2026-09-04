@@ -20,6 +20,10 @@
 | `还原度` | 4 组设计稿转码对照表（1 页 A4） | 《同一张设计稿转前端代码，我测了 4 个 AI 工具，还原度差距比想象大》 | [design2code-compare.pdf](design2code-compare.pdf) |
 | `报错` | 9 组报错问答实录（1 页 A4） | 《同一个前端报错，我分别问了 Cursor、Copilot 和 Claude Code》 | [error-debug-qa.pdf](error-debug-qa.pdf) |
 | `12场景` | 12 场景提效评估表（1 页 A4） | 《前端用 AI 提效的 12 个真实场景，我按「省多少时间」排了个序》 | [ai-frontend-scenarios.pdf](ai-frontend-scenarios.pdf) |
+| `rules` | 前端 .cursorrules 完整配置（Vue3 + TS 中后台模板） | 《怎么让 AI 真正懂你的项目：一份前端 .cursorrules 该怎么写》 | [cursor-rules-config.pdf](cursor-rules-config.pdf) |
+| `TS` | TS 类型补全实测记录（统计 + 避坑） | 《我让 AI 给一个 3 万行的前端项目补 TypeScript 类型，结果有点意外》 | [ts-type-completion.pdf](ts-type-completion.pdf) |
+| `工作流` | AI 前端工作流图（阶段表 + 交接清单） | 《我的 AI 前端工作流：从需求评审到提测，哪几步交出去，哪几步必须自己来》 | [ai-workflow.pdf](ai-workflow.pdf) |
+| `8工具` | 2026 前端 AI 工具表（8 工具 + 官网链接） | 《2026 前端 AI 工具清单：我实际在用的 8 个（附各自的使用场景）》 | [fe-ai-tools.pdf](fe-ai-tools.pdf) |
 
 > 在公众号对话框发送上方加框的关键词（如「速查表」），即可自动获取下载链接。
 
@@ -36,6 +40,10 @@
 | 4 组设计稿转码对照表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/design2code-compare.pdf` |
 | 9 组报错问答实录 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/error-debug-qa.pdf` |
 | 12 场景提效评估表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/ai-frontend-scenarios.pdf` |
+| 前端 .cursorrules 配置 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/cursor-rules-config.pdf` |
+| TS 类型补全实测记录 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/ts-type-completion.pdf` |
+| AI 前端工作流图 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/ai-workflow.pdf` |
+| 2026 前端 AI 工具表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/fe-ai-tools.pdf` |
 
 > Markdown 源同样可加速：把上面链接末尾的 `.pdf` 换成 `.md` 即可。
 
@@ -51,7 +59,15 @@ fe-ai-cheatsheet/
 ├── error-debug-qa.pdf              # 9 组报错问答实录
 ├── error-debug-qa.md               # ↑ Markdown 源
 ├── ai-frontend-scenarios.pdf       # 12 场景提效评估表
-└── ai-frontend-scenarios.md        # ↑ Markdown 源
+├── ai-frontend-scenarios.md        # ↑ Markdown 源
+├── cursor-rules-config.pdf         # 前端 .cursorrules 完整配置
+├── cursor-rules-config.md          # ↑ Markdown 源（含使用说明）
+├── ts-type-completion.pdf          # TS 类型补全实测记录
+├── ts-type-completion.md           # ↑ Markdown 源
+├── ai-workflow.pdf                 # AI 前端工作流图
+├── ai-workflow.md                  # ↑ Markdown 源
+├── fe-ai-tools.pdf                 # 2026 前端 AI 工具表
+└── fe-ai-tools.md                  # ↑ Markdown 源
 ```
 
 ## 更新计划
