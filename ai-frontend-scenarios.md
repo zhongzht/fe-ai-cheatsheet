@@ -33,4 +33,4 @@ AI 最擅长「边界清晰、对错可验」的活儿，最不擅长「需要�
 
 ---
 
-资料链接：https://gitee.com/chat_tz/fe-ai-cheatsheet
+资料链接：https://github.com/zhongzht/fe-ai-cheatsheet

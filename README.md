@@ -19,14 +19,25 @@
 | `review清单` | AI 代码审查 Checklist（1 页 A4） | 《AI 生成的前端代码，我 review 完发现 5 个通病》 | [code-review-checklist.pdf](code-review-checklist.pdf) |
 | `还原度` | 4 组设计稿转码对照表（1 页 A4） | 《同一张设计稿转前端代码，我测了 4 个 AI 工具，还原度差距比想象大》 | [design2code-compare.pdf](design2code-compare.pdf) |
 | `报错` | 9 组报错问答实录（1 页 A4） | 《同一个前端报错，我分别问了 Cursor、Copilot 和 Claude Code》 | [error-debug-qa.pdf](error-debug-qa.pdf) |
-| `12场景` | 12 场景提效评估表（1 页 A4） | 《前端用 AI 提效的 12 个真实场景，我按"省多少时间"排了个序》 | [ai-frontend-scenarios.pdf](ai-frontend-scenarios.pdf) |
+| `12场景` | 12 场景提效评估表（1 页 A4） | 《前端用 AI 提效的 12 个真实场景，我按「省多少时间」排了个序》 | [ai-frontend-scenarios.pdf](ai-frontend-scenarios.pdf) |
 
 > 在公众号对话框发送上方加框的关键词（如「速查表」），即可自动获取下载链接。
 
 ## 怎么获取
 
 1. **公众号关键词回复（推荐）**：微信搜「前端AI手记」关注后，在对话框发送关键词。
-2. **直接下载**：本仓库为公开仓库，点上方文件名即可在线预览 / 下载。
+2. **GitHub 直接下载**：本仓库为公开仓库，点上方文件名即可在线预览 / 下载。
+3. **国内加速下载（GitHub 打不开时用这个）**：下面是通过 jsDelivr CDN 加速的直链，国内网络可直接下载。
+
+| 资料 | 国内加速直链 |
+| --- | --- |
+| 前端 AI 编程提示词速查表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/prompt-cheatsheet.pdf` |
+| AI 代码审查 Checklist | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/code-review-checklist.pdf` |
+| 4 组设计稿转码对照表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/design2code-compare.pdf` |
+| 9 组报错问答实录 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/error-debug-qa.pdf` |
+| 12 场景提效评估表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/ai-frontend-scenarios.pdf` |
+
+> Markdown 源同样可加速：把上面链接末尾的 `.pdf` 换成 `.md` 即可。
 
 ## 仓库结构
 

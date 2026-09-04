@@ -31,4 +31,4 @@ CodeFun 出骨架 → 截图丢给 Cursor 按项目规范改 → 强交互部分
 
 ---
 
-资料链接：https://gitee.com/chat_tz/fe-ai-cheatsheet
+资料链接：https://github.com/zhongzht/fe-ai-cheatsheet

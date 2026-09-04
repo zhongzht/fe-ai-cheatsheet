@@ -35,4 +35,4 @@
 
 ---
 
-资料链接：https://gitee.com/chat_tz/fe-ai-cheatsheet
+资料链接：https://github.com/zhongzht/fe-ai-cheatsheet
