@@ -24,6 +24,8 @@
 | `TS` | TS 类型补全实测记录（统计 + 避坑） | 《我让 AI 给一个 3 万行的前端项目补 TypeScript 类型，结果有点意外》 | [ts-type-completion.pdf](ts-type-completion.pdf) |
 | `工作流` | AI 前端工作流图（阶段表 + 交接清单） | 《我的 AI 前端工作流：从需求评审到提测，哪几步交出去，哪几步必须自己来》 | [ai-workflow.pdf](ai-workflow.pdf) |
 | `8工具` | 2026 前端 AI 工具表（8 工具 + 官网链接） | 《2026 前端 AI 工具清单：我实际在用的 8 个（附各自的使用场景）》 | [fe-ai-tools.pdf](fe-ai-tools.pdf) |
+| `构建报错` | 构建报错问答实录（1 页 A4） | 《构建报错专场：webpack / vite / tsc 一挂，我把同一个错丢给 3 个 AI》 | [build-error-qa.pdf](build-error-qa.pdf) |
+| `迁移` | 迁移批次对照表（Vue2→3，1 页 A4） | 《老项目 Vue2→3 迁移：AI 一天能批改多少个组件，我是这么控节奏的》 | [migration-checklist.pdf](migration-checklist.pdf) |
 
 > 在公众号对话框发送上方加框的关键词（如「速查表」），即可自动获取下载链接。
 
@@ -44,6 +46,8 @@
 | TS 类型补全实测记录 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/ts-type-completion.pdf` |
 | AI 前端工作流图 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/ai-workflow.pdf` |
 | 2026 前端 AI 工具表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/fe-ai-tools.pdf` |
+| 构建报错问答实录 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/build-error-qa.pdf` |
+| 迁移批次对照表 | `https://cdn.jsdelivr.net/gh/zhongzht/fe-ai-cheatsheet@main/migration-checklist.pdf` |
 
 > Markdown 源同样可加速：把上面链接末尾的 `.pdf` 换成 `.md` 即可。
 
@@ -67,7 +71,11 @@ fe-ai-cheatsheet/
 ├── ai-workflow.pdf                 # AI 前端工作流图
 ├── ai-workflow.md                  # ↑ Markdown 源
 ├── fe-ai-tools.pdf                 # 2026 前端 AI 工具表
-└── fe-ai-tools.md                  # ↑ Markdown 源
+├── fe-ai-tools.md                  # ↑ Markdown 源
+├── build-error-qa.pdf              # 构建报错问答实录
+├── build-error-qa.md               # ↑ Markdown 源
+├── migration-checklist.pdf         # 迁移批次对照表（Vue2→3）
+└── migration-checklist.md          # ↑ Markdown 源
 ```
 
 ## 更新计划
